@@ -1,0 +1,12 @@
+{
+  "home" : "Home",
+  "close" : "Close",
+  "somethingWentWrong": "Something went wrong please try again later",
+  "requiredField": "This field is required",
+  "invalidEmail": "Please enter a valid email id",
+  "invalidPhone": "Please enter a valid phone number",
+  "maxLen": "Max {} characters allowed",
+  "minLen": "Should have at least {} characters",
+  "charsAndSpaceAllowed": "Only letters and single space are allowed",
+  "invalidPassword": "Password must contain at least one lower case letter, one upper case letter, one digit and no spaces should be between 6 characters and 16 characters."
+}
