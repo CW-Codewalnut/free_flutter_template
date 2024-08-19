@@ -3,7 +3,7 @@ export 'package:go_router/go_router.dart';
 import 'package:flutter/widgets.dart';
 import 'package:go_router/go_router.dart';
 
-import '../common/utils/global_keys.dart';
+import 'global_keys.dart';
 import '../features/home/home_screen.dart';
 import '../features/webview/webview_screen.dart';
 

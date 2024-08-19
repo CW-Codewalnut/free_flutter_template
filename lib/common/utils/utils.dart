@@ -3,16 +3,12 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_template/common/extension/map_extension.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:share_plus/share_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../../app/app_routes.dart';
 import '../../core/core.dart';
 import '../translations/translations.dart';
-import 'global_keys.dart';
 
 class Utils {
   Utils._();

@@ -1,4 +1,4 @@
-import 'utils.dart';
+import '../common/utils/utils.dart';
 import 'package:path_provider/path_provider.dart'
     show getApplicationDocumentsDirectory;
 

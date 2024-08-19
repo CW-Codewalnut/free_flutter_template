@@ -1,9 +1,7 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 
-import '../core/core.dart';
-import '../common/utils/global_keys.dart';
-import 'app_routes.dart';
+import 'core/core.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
